@@ -1,0 +1,872 @@
+[INFO  - 2018-10-08T06:31:18.692Z] GhostDriver - Main - running on port 22158
+[INFO  - 2018-10-08T06:31:18.959Z] Session [c3f077b0-cac3-11e8-a559-65d9d8f10534] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T06:31:18.959Z] Session [c3f077b0-cac3-11e8-a559-65d9d8f10534] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T06:31:18.959Z] Session [c3f077b0-cac3-11e8-a559-65d9d8f10534] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":false,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T06:31:18.961Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c3f077b0-cac3-11e8-a559-65d9d8f10534
+[ERROR - 2018-10-08T06:31:19.555Z] Session [c3f077b0-cac3-11e8-a559-65d9d8f10534] - page.onError - msg: ReferenceError: Can't find variable: c
+[ERROR - 2018-10-08T06:31:19.556Z] Session [c3f077b0-cac3-11e8-a559-65d9d8f10534] - page.onError - stack:
+  sendLog (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:4)
+  (anonymous function) (https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js:5)
+[INFO  - 2018-10-08T06:36:18.696Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T06:41:18.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T06:46:18.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T06:51:18.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T06:56:18.713Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:01:18.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:06:18.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:11:18.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:16:18.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:21:18.728Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:26:18.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:31:18.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:36:18.730Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:41:18.730Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:46:18.730Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:51:18.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T07:56:18.732Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:01:18.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:06:18.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:11:18.746Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:16:18.745Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:21:18.750Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:26:18.760Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:31:18.762Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:36:18.763Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:41:18.773Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:46:18.775Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:51:18.783Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:56:18.793Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:01:18.807Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:06:18.807Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:11:18.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:16:18.807Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:21:18.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:26:18.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:31:18.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:36:18.808Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:41:18.822Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:46:18.823Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:51:18.823Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:56:18.823Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:21:15.732Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:26:15.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:31:15.745Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:36:15.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:41:15.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:46:15.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:51:15.759Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:56:15.760Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Hand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:20:20.275Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:25:20.280Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:30:20.293Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:35:20.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:40:20.305Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:45:20.308Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:50:20.312Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:55:20.313Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T08:05:57.601Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:05:57.602Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '49fe6fe0-cad0-11e8-bb17-bf47e8781769', because windowless
+[INFO  - 2018-10-08T08:13:20.831Z] GhostDriver - Main - running on port 42126
+[INFO  - 2018-10-08T08:13:21.019Z] Session [04f8b070-cad2-11e8-8ad8-016d6476a9be] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:13:21.019Z] Session [04f8b070-cad2-11e8-8ad8-016d6476a9be] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:13:21.020Z] Session [04f8b070-cad2-11e8-8ad8-016d6476a9be] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:13:21.020Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 04f8b070-cad2-11e8-8ad8-016d6476a9be
+[ERROR - 2018-10-08T08:13:30.544Z] Session [04f8b070-cad2-11e8-8ad8-016d6476a9be] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T08:13:30.545Z] Session [04f8b070-cad2-11e8-8ad8-016d6476a9be] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T08:18:20.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:23:20.829Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:28:20.828Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:33:20.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:38:20.839Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:43:20.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:48:20.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:53:20.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:58:20.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:03:20.840Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:08:20.841Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:13:20.859Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:18:20.858Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:23:20.858Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:28:20.858Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:33:20.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:38:20.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:43:20.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:48:20.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:53:20.873Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:58:20.873Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+sSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:51:10.855Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:56:10.855Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:01:10.855Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:06:10.855Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:11:10.856Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:16:10.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:21:10.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:26:10.872Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:31:10.884Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:36:10.887Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:41:10.899Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:46:10.902Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:51:10.902Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:56:10.902Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+:18:37.159Z] Session [c167d330-cad2-11e8-8e95-9df6beee0af8] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:18:37.159Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c167d330-cad2-11e8-8e95-9df6beee0af8
+[INFO  - 2018-10-08T08:23:36.946Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:23:36.946Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'c167d330-cad2-11e8-8e95-9df6beee0af8', because windowless
+mages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:20:11.498Z] Session [f9a2d060-cad2-11e8-949b-e97fa30876cb] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:20:11.498Z] Session [f9a2d060-cad2-11e8-949b-e97fa30876cb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:20:11.498Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f9a2d060-cad2-11e8-949b-e97fa30876cb
+[INFO  - 2018-10-08T08:25:11.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:25:11.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'f9a2d060-cad2-11e8-949b-e97fa30876cb', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:21:10.990Z] Session [1d1892a0-cad3-11e8-b65e-c5bdcea0f281] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:21:10.990Z] Session [1d1892a0-cad3-11e8-b65e-c5bdcea0f281] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:21:10.990Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 1d1892a0-cad3-11e8-b65e-c5bdcea0f281
+[ERROR - 2018-10-08T08:21:16.123Z] Session [1d1892a0-cad3-11e8-b65e-c5bdcea0f281] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T08:21:16.123Z] Session [1d1892a0-cad3-11e8-b65e-c5bdcea0f281] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T08:26:10.949Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:26:10.949Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '1d1892a0-cad3-11e8-b65e-c5bdcea0f281', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:25:36.421Z] Session [bb4dfa00-cad3-11e8-8064-9d287c162f18] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:25:36.421Z] Session [bb4dfa00-cad3-11e8-8064-9d287c162f18] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:25:36.421Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bb4dfa00-cad3-11e8-8064-9d287c162f18
+[INFO  - 2018-10-08T08:30:36.542Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:30:36.543Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'bb4dfa00-cad3-11e8-8064-9d287c162f18', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:27:18.437Z] Session [f81c8910-cad3-11e8-bfaf-17455116e81d] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:27:18.437Z] Session [f81c8910-cad3-11e8-bfaf-17455116e81d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:27:18.437Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f81c8910-cad3-11e8-bfaf-17455116e81d
+[INFO  - 2018-10-08T08:32:18.213Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:32:18.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'f81c8910-cad3-11e8-bfaf-17455116e81d', because windowless
+[INFO  - 2018-10-08T08:36:49.932Z] GhostDriver - Main - running on port 33091
+[INFO  - 2018-10-08T08:36:50.134Z] Session [4cde9320-cad5-11e8-a2dc-91c8c6ca6b97] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:36:50.134Z] Session [4cde9320-cad5-11e8-a2dc-91c8c6ca6b97] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:36:50.134Z] Session [4cde9320-cad5-11e8-a2dc-91c8c6ca6b97] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:36:50.134Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4cde9320-cad5-11e8-a2dc-91c8c6ca6b97
+[INFO  - 2018-10-08T08:41:50.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:41:50.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '4cde9320-cad5-11e8-a2dc-91c8c6ca6b97', because windowless
+[INFO  - 2018-10-08T08:46:40.760Z] GhostDriver - Main - running on port 17742
+[INFO  - 2018-10-08T08:46:40.954Z] Session [ad068d60-cad6-11e8-b409-45805d564a90] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T08:46:40.954Z] Session [ad068d60-cad6-11e8-b409-45805d564a90] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T08:46:40.954Z] Session [ad068d60-cad6-11e8-b409-45805d564a90] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T08:46:40.954Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ad068d60-cad6-11e8-b409-45805d564a90
+[ERROR - 2018-10-08T08:46:42.247Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538988402198
+[INFO  - 2018-10-08T08:51:40.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T08:56:40.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:01:40.999Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:06:41.000Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:11:41.001Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:16:41.001Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:21:41.002Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:26:41.002Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:31:41.002Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:36:41.003Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:41:41.003Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:46:41.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:51:41.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:56:41.004Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+eqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:12:01.375Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:17:01.377Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:22:01.376Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:27:01.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:32:01.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:37:01.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:42:01.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:47:01.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:52:01.379Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:57:01.380Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+layer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T08:57:59.401Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:02:59.405Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:07:59.419Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:12:59.419Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:17:59.432Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:22:59.433Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:27:59.447Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:32:59.448Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:37:59.463Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:42:59.463Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:47:59.466Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:52:59.466Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:57:59.478Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T08:58:52.716Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:03:52.716Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:08:52.717Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:13:52.717Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:18:52.717Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:23:52.717Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:28:52.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:33:52.717Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:38:52.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:43:52.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:48:52.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:53:52.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:58:52.718Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+layer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:00:03.245Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:05:03.245Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:10:03.245Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:15:03.246Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:20:03.247Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:25:03.249Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:30:03.261Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:35:03.261Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:40:03.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:45:03.262Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:50:03.263Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:55:03.263Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T10:00:03.276Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+eqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:15:57.424Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:20:57.424Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:25:57.424Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:30:57.424Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:35:57.425Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:40:57.424Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:45:57.425Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:50:57.425Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:55:57.425Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+er/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:02:02.937Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:07:02.936Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:12:02.936Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:17:02.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:22:02.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:27:02.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:32:02.948Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:37:02.952Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:42:02.949Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:47:02.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:52:02.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:57:02.950Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+0-08T08:58:15.181Z] Session [447a1bc0-cad8-11e8-9cb7-ebd515910103] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:03:04.368Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:08:04.368Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:13:04.371Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:18:04.371Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:23:04.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:28:04.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:33:04.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:38:04.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:43:04.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:48:04.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:53:04.373Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:58:04.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:22:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:27:05.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:32:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:37:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:42:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:47:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:52:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:57:05.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+8T09:03:15.376Z] Session [f8d2c770-cad8-11e8-a194-7375b1d78c9a] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:08:06.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:08:06.988Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'f8d2c770-cad8-11e8-a194-7375b1d78c9a', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T09:04:55.310Z] Session [395006a0-cad9-11e8-b349-d70650e6f1bc] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T09:04:55.310Z] Session [395006a0-cad9-11e8-b349-d70650e6f1bc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:04:55.310Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 395006a0-cad9-11e8-b349-d70650e6f1bc
+[INFO  - 2018-10-08T09:09:55.447Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:09:55.448Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '395006a0-cad9-11e8-b349-d70650e6f1bc', because windowless
+Images":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T09:05:26.474Z] Session [4be2f840-cad9-11e8-8921-3df52e014982] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T09:05:26.474Z] Session [4be2f840-cad9-11e8-8921-3df52e014982] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:05:26.474Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4be2f840-cad9-11e8-8921-3df52e014982
+[ERROR - 2018-10-08T09:05:36.028Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538989536009
+[ERROR - 2018-10-08T09:05:37.054Z] Session [4be2f840-cad9-11e8-8921-3df52e014982] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:05:37.054Z] Session [4be2f840-cad9-11e8-8921-3df52e014982] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:10:26.275Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:15:26.276Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:20:26.279Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:25:26.279Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:30:26.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:35:26.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:40:26.294Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:45:26.308Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:50:26.308Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:55:26.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+cad9-11e8-be3e-fb40124debbd] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:07:48.877Z] Session [9af854c0-cad9-11e8-be3e-fb40124debbd] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[ERROR - 2018-10-08T09:07:48.907Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538989668841
+[INFO  - 2018-10-08T09:12:38.981Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:17:38.980Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:22:38.994Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:27:38.995Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:32:39.032Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:37:39.032Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:42:39.043Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:47:39.043Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:52:39.043Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:57:39.055Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:22:04.060Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9e7eaa70-cadb-11e8-8a6f-0f039f09efdd
+[ERROR - 2018-10-08T09:22:14.891Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538990534872
+[ERROR - 2018-10-08T09:22:16.538Z] Session [9e7eaa70-cadb-11e8-8a6f-0f039f09efdd] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:22:16.539Z] Session [9e7eaa70-cadb-11e8-8a6f-0f039f09efdd] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:27:03.843Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:32:03.842Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:37:03.858Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:42:03.857Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:47:03.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:52:03.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:57:03.872Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:34:15.892Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 52b38500-cadd-11e8-a5be-3b97b944b619
+[ERROR - 2018-10-08T09:34:21.159Z] Session [52b38500-cadd-11e8-a5be-3b97b944b619] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:34:21.159Z] Session [52b38500-cadd-11e8-a5be-3b97b944b619] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[ERROR - 2018-10-08T09:34:24.717Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538991264669
+[INFO  - 2018-10-08T09:39:15.698Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:44:15.698Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:49:15.697Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:54:15.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:59:15.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:36:12.819Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 986529f0-cadd-11e8-a010-71c69744356e
+[ERROR - 2018-10-08T09:36:21.204Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538991381183
+[ERROR - 2018-10-08T09:36:22.663Z] Session [986529f0-cadd-11e8-a010-71c69744356e] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:36:22.663Z] Session [986529f0-cadd-11e8-a010-71c69744356e] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:41:12.633Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:46:12.634Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:51:12.634Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:56:12.634Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+38.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T09:41:34.255Z] Session [57fc67b0-cade-11e8-ae48-4b88757c1b5c] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T09:41:34.255Z] Session [57fc67b0-cade-11e8-ae48-4b88757c1b5c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:41:34.255Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 57fc67b0-cade-11e8-ae48-4b88757c1b5c
+[ERROR - 2018-10-08T09:41:43.249Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538991703218
+[ERROR - 2018-10-08T09:41:45.670Z] Session [57fc67b0-cade-11e8-ae48-4b88757c1b5c] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:41:45.670Z] Session [57fc67b0-cade-11e8-ae48-4b88757c1b5c] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:46:34.059Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:51:34.058Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:56:34.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+scriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T09:48:05.069Z] Session [40edbc80-cadf-11e8-8306-8fcb719b5cec] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T09:48:05.069Z] Session [40edbc80-cadf-11e8-8306-8fcb719b5cec] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:48:05.069Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 40edbc80-cadf-11e8-8306-8fcb719b5cec
+[ERROR - 2018-10-08T09:48:15.166Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538992095146
+[ERROR - 2018-10-08T09:48:17.276Z] Session [40edbc80-cadf-11e8-8306-8fcb719b5cec] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:48:17.276Z] Session [40edbc80-cadf-11e8-8306-8fcb719b5cec] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:53:04.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-08T09:58:04.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+scriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-08T09:50:19.601Z] Session [911dd7d0-cadf-11e8-8a6c-630fbbc50410] - page.customHeaders:  - {}
+[INFO  - 2018-10-08T09:50:19.601Z] Session [911dd7d0-cadf-11e8-8a6c-630fbbc50410] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-08T09:50:19.601Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 911dd7d0-cadf-11e8-8a6c-630fbbc50410
+[ERROR - 2018-10-08T09:50:28.729Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1538992228698
+[ERROR - 2018-10-08T09:50:30.441Z] Session [911dd7d0-cadf-11e8-8a6c-630fbbc50410] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-08T09:50:30.441Z] Session [911dd7d0-cadf-11e8-8a6c-630fbbc50410] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-08T09:55:19.399Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T00:59:40.127Z] GhostDriver - Main - running on port 45224
+[INFO  - 2018-10-09T00:59:40.441Z] Session [99e95450-cb5e-11e8-92d0-ebf8c7f5a701] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T00:59:40.441Z] Session [99e95450-cb5e-11e8-92d0-ebf8c7f5a701] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T00:59:40.441Z] Session [99e95450-cb5e-11e8-92d0-ebf8c7f5a701] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T00:59:40.441Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 99e95450-cb5e-11e8-92d0-ebf8c7f5a701
+[ERROR - 2018-10-09T00:59:43.332Z] Session [99e95450-cb5e-11e8-92d0-ebf8c7f5a701] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-09T00:59:43.332Z] Session [99e95450-cb5e-11e8-92d0-ebf8c7f5a701] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[ERROR - 2018-10-09T00:59:47.579Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1539046787577
+[INFO  - 2018-10-09T01:04:40.134Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:09:40.143Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:14:40.151Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:19:40.150Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:24:40.150Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:29:40.150Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:34:40.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:39:40.169Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:44:40.169Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:49:40.170Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:54:40.180Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:59:40.188Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:04:40.196Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:09:40.197Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:14:40.199Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:19:40.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:24:40.212Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:29:40.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:34:40.215Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:39:40.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:44:40.216Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:49:40.229Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:54:40.230Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:59:40.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:04:40.231Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:09:40.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:14:40.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:19:40.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:24:40.233Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:29:40.233Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:34:40.244Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:39:40.246Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:44:40.247Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+lessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:31:12.698Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:36:12.699Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:41:12.700Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:46:12.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:51:12.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:56:12.719Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:01:12.727Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:06:12.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:11:12.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:16:12.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:21:12.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:26:12.735Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:31:12.746Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:36:12.749Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:41:12.761Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:46:12.774Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+eqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:03:11.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:08:11.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:13:11.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:18:11.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:23:11.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:28:11.803Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:33:11.804Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:38:11.804Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:43:11.804Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+torsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T01:35:25.075Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 983681f0-cb63-11e8-affe-0118b61b152a
+[INFO  - 2018-10-09T01:36:05.962Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T01:36:49.678Z] GhostDriver - Main - running on port 11683
+[INFO  - 2018-10-09T01:36:49.918Z] Session [cac885a0-cb63-11e8-b888-155797530e36] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T01:36:49.918Z] Session [cac885a0-cb63-11e8-b888-155797530e36] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T01:36:49.918Z] Session [cac885a0-cb63-11e8-b888-155797530e36] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T01:36:49.918Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cac885a0-cb63-11e8-b888-155797530e36
+[INFO  - 2018-10-09T01:37:40.368Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T01:38:02.522Z] GhostDriver - Main - running on port 19569
+[INFO  - 2018-10-09T01:38:02.729Z] Session [f62e9950-cb63-11e8-bdac-93ba444bf47e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T01:38:02.729Z] Session [f62e9950-cb63-11e8-bdac-93ba444bf47e] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T01:38:02.729Z] Session [f62e9950-cb63-11e8-bdac-93ba444bf47e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T01:38:02.730Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f62e9950-cb63-11e8-bdac-93ba444bf47e
+[INFO  - 2018-10-09T01:38:52.351Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T01:40:09.883Z] GhostDriver - Main - running on port 26753
+[INFO  - 2018-10-09T01:40:10.110Z] Session [421b65a0-cb64-11e8-a3f4-313e061c5416] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T01:40:10.110Z] Session [421b65a0-cb64-11e8-a3f4-313e061c5416] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T01:40:10.110Z] Session [421b65a0-cb64-11e8-a3f4-313e061c5416] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T01:40:10.110Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 421b65a0-cb64-11e8-a3f4-313e061c5416
+[INFO  - 2018-10-09T01:40:50.713Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T01:44:54.324Z] GhostDriver - Main - running on port 10138
+[INFO  - 2018-10-09T01:44:54.486Z] Session [eb9bbb20-cb64-11e8-863c-85c620df2735] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T01:44:54.486Z] Session [eb9bbb20-cb64-11e8-863c-85c620df2735] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T01:44:54.487Z] Session [eb9bbb20-cb64-11e8-863c-85c620df2735] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T01:44:54.487Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: eb9bbb20-cb64-11e8-863c-85c620df2735
+[INFO  - 2018-10-09T01:49:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:54:54.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T01:59:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:04:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:09:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:14:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:19:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:24:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:29:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:34:54.321Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:39:54.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:44:54.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:49:54.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:54:54.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:59:54.323Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:04:54.324Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:09:54.324Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:14:54.324Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:19:54.324Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:24:54.325Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:29:54.325Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:34:54.325Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:39:54.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:44:54.326Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:06:26.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:11:26.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:16:26.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:21:26.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:26:26.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:31:26.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:36:26.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:41:26.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:46:26.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+sSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:38:28.086Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:43:28.086Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:48:28.091Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:53:28.091Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:58:28.094Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:03:28.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:08:28.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:13:28.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:18:28.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:23:28.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:28:28.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:33:28.119Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:38:28.119Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:43:28.124Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+sSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:34:10.150Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:39:10.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:44:10.158Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:49:10.165Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:54:10.165Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:59:10.166Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:04:10.166Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:09:10.169Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:14:10.168Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:19:10.169Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:24:10.183Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:29:10.196Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:34:10.200Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:39:10.202Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:44:10.202Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:06:28.449Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:11:28.449Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:16:28.450Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:21:28.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:26:28.451Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:31:28.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:36:28.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:41:28.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:46:28.452Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:07:33.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:12:33.729Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:17:33.730Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:22:33.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:27:33.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:32:33.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:37:33.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:42:33.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:05:30.605Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:10:30.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:15:30.607Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:20:30.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:25:30.606Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:30:30.607Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:35:30.607Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:40:30.607Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:45:30.608Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+23.027Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:21:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:26:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:31:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:36:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:41:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:46:23.028Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:51:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:56:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:01:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:06:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:11:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:16:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:21:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:26:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:31:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:36:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:41:23.029Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:46:23.030Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:10:00.134Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:15:00.135Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:20:00.136Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:25:00.135Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:30:00.135Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:35:00.135Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:40:00.136Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:45:00.136Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:09:43.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:14:43.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:19:43.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:24:43.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:29:43.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:34:43.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:39:43.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:44:43.863Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:04:52.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:09:52.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:14:52.721Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:19:52.722Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:24:52.722Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:29:52.722Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:34:52.722Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:39:52.723Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:44:52.723Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+erVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T02:27:30.761Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: df443040-cb6a-11e8-bf76-eb1d78aee0f2
+[INFO  - 2018-10-09T02:32:30.556Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:37:30.556Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:42:30.556Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:47:30.557Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:52:30.558Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:57:30.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:02:30.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:07:30.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:12:30.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:17:30.559Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:22:30.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:27:30.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:32:30.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:37:30.560Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:42:30.561Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+and - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:03:04.754Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:08:04.755Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:13:04.755Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:18:04.755Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:23:04.756Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:28:04.756Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:33:04.757Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:38:04.758Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:43:04.757Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+.792Z] Session [68aced30-cb6c-11e8-b7d8-85086bff06d4] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T02:38:30.792Z] Session [68aced30-cb6c-11e8-b7d8-85086bff06d4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T02:38:30.792Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 68aced30-cb6c-11e8-b7d8-85086bff06d4
+[INFO  - 2018-10-09T02:43:30.014Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:48:30.016Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:53:30.017Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:58:30.016Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:03:30.017Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:08:30.017Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:13:30.017Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:18:30.017Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:23:30.018Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:28:30.018Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:33:30.018Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:38:30.018Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:43:30.018Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T02:40:49.026Z] Session [bb11e9e0-cb6c-11e8-801b-2b556cdd95bf] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T02:40:49.026Z] Session [bb11e9e0-cb6c-11e8-801b-2b556cdd95bf] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T02:40:49.026Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: bb11e9e0-cb6c-11e8-801b-2b556cdd95bf
+[INFO  - 2018-10-09T02:41:16.793Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T02:41:37.686Z] GhostDriver - Main - running on port 19646
+[INFO  - 2018-10-09T02:41:37.888Z] Session [d83182b0-cb6c-11e8-a754-d9fdffb2f5a0] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T02:41:37.888Z] Session [d83182b0-cb6c-11e8-a754-d9fdffb2f5a0] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T02:41:37.888Z] Session [d83182b0-cb6c-11e8-a754-d9fdffb2f5a0] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T02:41:37.888Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d83182b0-cb6c-11e8-a754-d9fdffb2f5a0
+[INFO  - 2018-10-09T02:41:58.162Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T02:42:08.224Z] GhostDriver - Main - running on port 4195
+[INFO  - 2018-10-09T02:42:08.485Z] Session [ea6e6510-cb6c-11e8-ab16-69b57324c21c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T02:42:08.485Z] Session [ea6e6510-cb6c-11e8-ab16-69b57324c21c] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T02:42:08.485Z] Session [ea6e6510-cb6c-11e8-ab16-69b57324c21c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T02:42:08.485Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ea6e6510-cb6c-11e8-ab16-69b57324c21c
+[ERROR - 2018-10-09T02:42:52.357Z] Session [ea6e6510-cb6c-11e8-ab16-69b57324c21c] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-09T02:42:52.358Z] Session [ea6e6510-cb6c-11e8-ab16-69b57324c21c] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-09T02:42:52.512Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T02:48:41.519Z] GhostDriver - Main - running on port 6659
+[INFO  - 2018-10-09T02:48:41.681Z] Session [d4cb57d0-cb6d-11e8-baba-5b9f8831ecb7] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T02:48:41.681Z] Session [d4cb57d0-cb6d-11e8-baba-5b9f8831ecb7] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T02:48:41.681Z] Session [d4cb57d0-cb6d-11e8-baba-5b9f8831ecb7] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T02:48:41.681Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d4cb57d0-cb6d-11e8-baba-5b9f8831ecb7
+[INFO  - 2018-10-09T02:53:41.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T02:58:41.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:03:41.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:08:41.514Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:13:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:18:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:23:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:28:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:33:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:38:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-10-09T03:43:41.515Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+T02:50:05.423Z] Session [e8fa6d40-cb6d-11e8-8c9f-d77902682213] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-09T02:50:10.334Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2018-10-09T06:16:06.732Z] GhostDriver - Main - running on port 1613
+[INFO  - 2018-10-09T06:16:06.967Z] Session [cec34830-cb8a-11e8-b3d1-33d36932d939] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-10-09T06:16:06.967Z] Session [cec34830-cb8a-11e8-b3d1-33d36932d939] - page.customHeaders:  - {}
+[INFO  - 2018-10-09T06:16:06.967Z] Session [cec34830-cb8a-11e8-b3d1-33d36932d939] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-10-09T06:16:06.967Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cec34830-cb8a-11e8-b3d1-33d36932d939
+[ERROR - 2018-10-09T06:16:55.727Z] Session [cec34830-cb8a-11e8-b3d1-33d36932d939] - page.onError - msg: TypeError: undefined is not an object (evaluating 'e.canPlaySource')
+[ERROR - 2018-10-09T06:16:55.727Z] Session [cec34830-cb8a-11e8-b3d1-33d36932d939] - page.onError - stack:
+  src (http://s.xnimg.cn/a89302/wap/mobile/hlsPlayer/js/video.js:4)
+  addSrc (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  initHLS (http://s.xnimg.cn/a89274/wap/mobile/hlsPlayer/js/control.js:1)
+  s (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  success (http://s.xnimg.cn/a91050/zhibo/js/index.js:1)
+  c (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  fireWith (http://s.xnimg.cn/a83151/nx/core/libs.js:3)
+  n (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+  t (http://s.xnimg.cn/a83151/nx/core/libs.js:4)
+[INFO  - 2018-10-09T06:16:59.585Z] ShutdownReqHand - _handle - About to shutdown
